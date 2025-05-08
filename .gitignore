@@ -1,5 +1,4 @@
 yolo11n-pose.pt
-yolov8x.pt
 input/
 runs/
-_pycache_/
+__pycache__/
