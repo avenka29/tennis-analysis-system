@@ -3,3 +3,7 @@ input/
 runs/
 __pycache__/
 .DS_Store
+Punches/
+Data/
+Annotated/
+ufc_model.pkl

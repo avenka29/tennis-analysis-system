@@ -33,7 +33,7 @@ class Data_Extractor:
     # @param image = filePath of image
     # @param label = numerical label for punch or kick
     def extract_keypoints(self, image, number):
-        result = model.predict(image, save=True)
+        result = model.predict(image, save=False)
 
         # Predict for person with largest confidence store
         boxTensor = result[0].boxes.data
@@ -42,6 +42,8 @@ class Data_Extractor:
         # if result and len(result[0].keypoints[max_confidence_idx]) == 17:
         self.keypoints.append( result[0].keypoints.data[max_confidence_idx].cpu().numpy().flatten())
         self.label.append(number)
+
+
     
 
     
