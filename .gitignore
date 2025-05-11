@@ -2,3 +2,4 @@ yolo11n-pose.pt
 input/
 runs/
 __pycache__/
+.DS_Store
