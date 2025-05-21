@@ -9,7 +9,7 @@ def main():
     yolo_model = YOLO("yolo11n-pose.pt")
 
     filePath = input("Enter file path: ")
-    result = yolo_model.predict(filePath, save=False, conf=0.9)
+    result = yolo_model.predict(filePath, save=False, conf=0.5)
 
     # Predict for person with largest confidence store
     boxTensor = result[0].boxes.data

@@ -1,0 +1,423 @@
+Name,Date,WeightClass,Gender,CurrentWinStreak,CurrentLoseStreak,Draws,TotalRoundsFought,TotalTitleBouts,WinsByDecisionMajority,WinsByDecisionSplit,WinsByDecisionUnanimous,WinsByKO,WinsBySubmission,Wins,Stance,HeightCms,ReachCms,Age,Corner
+Chelsea Chandler,2024-08-10,Women's Bantamweight,FEMALE,1,0,0,7.0,0,0,0,1,1,0,2,Southpaw,172.72,172.72,33,Blue
+Austen Lane,2024-10-19,Heavyweight,MALE,0,2,0,6.0,0,0,0,0,1,0,2,Orthodox,198.12,203.2,36,Red
+Bolaji Oki,2024-09-28,Lightweight,MALE,2,0,0,4.0,0,0,1,0,1,0,2,Orthodox,177.8,185.42,28,Red
+Feng Xiaocan,2024-11-23,Women's Strawweight,FEMALE,2,0,0,4.0,0,0,0,1,1,0,2,Southpaw,170.18,167.64,22,Blue
+Bryce Mitchell,2024-12-07,Featherweight,MALE,0,1,0,22.0,0,1,0,5,0,1,8,Southpaw,177.8,177.8,30,Red
+Garrett Armfield,2024-11-02,Bantamweight,MALE,0,1,0,9.0,0,0,0,1,1,0,2,Orthodox,167.64,177.8,28,Blue
+Jose Ochoa,2024-11-23,Flyweight,MALE,0,0,0,0.0,0,0,0,0,0,0,0,Southpaw,170.18,170.18,23,Blue
+Carlos Leal,2024-10-26,Welterweight,MALE,0,0,0,0.0,0,0,0,0,0,0,0,Orthodox,180.34,187.96,30,Blue
+Ramiz Brahimaj,2024-11-16,Welterweight,MALE,0,1,0,11.0,0,0,0,0,0,2,3,Orthodox,177.8,182.88,31,Blue
+Erin Blanchfield,2024-11-02,Women's Flyweight,FEMALE,0,1,0,19.0,0,0,0,3,0,3,7,Orthodox,162.56,167.64,25,Red
+Francis Marshall,2024-08-24,Lightweight,MALE,0,2,0,9.0,0,0,0,1,1,0,3,Orthodox,175.26,182.88,25,Blue
+Gerald Meerschaert,2024-11-09,Middleweight,MALE,2,0,0,43.0,0,0,0,0,1,11,12,Southpaw,185.42,195.58,36,Red
+Caio Borralho,2024-08-24,Middleweight,MALE,8,0,0,20.0,0,0,0,5,2,1,9,Southpaw,185.42,190.5,31,Blue
+Michael Page,2024-06-29,Welterweight,MALE,1,0,0,3.0,0,0,0,1,0,0,1,Switch,190.5,200.66,37,Blue
+Kayla Harrison,2024-10-05,Women's Bantamweight,FEMALE,1,0,0,2.0,0,0,0,0,0,1,2,Southpaw,172.72,167.64,34,Blue
+Roosevelt Roberts,2024-09-28,Lightweight,MALE,0,3,0,20.0,0,0,0,2,0,3,5,Orthodox,187.96,185.42,30,Blue
+Jessica Penne,2024-10-19,Women's Strawweight,FEMALE,0,2,0,30.0,1,0,2,0,1,3,6,Orthodox,165.1,170.18,41,Red
+Cody Durden,2024-12-07,Flyweight,MALE,1,0,1,24.0,0,0,0,4,1,1,6,Southpaw,170.18,170.18,33,Red
+Reinier de Ridder,2024-11-09,Middleweight,MALE,0,0,0,0.0,0,0,0,0,0,0,1,Southpaw,193.04,198.12,34,Blue
+Ibo Aslan,2024-10-26,Light Heavyweight,MALE,2,0,0,4.0,0,0,0,0,2,0,3,Orthodox,190.5,195.58,28,Red
+Roman Dolidze,2024-10-05,Middleweight,MALE,1,0,0,25.0,0,0,1,2,4,0,8,Orthodox,187.96,193.04,36,Red
+Gabriel Miranda,2024-09-28,Featherweight,MALE,1,0,0,3.0,0,0,0,0,0,1,1,Orthodox,180.34,180.34,34,Blue
+Austin Hubbard,2024-10-05,Lightweight,MALE,1,0,0,23.0,0,0,0,3,1,0,4,Orthodox,177.8,180.34,32,Red
+Mohammad Yahya,2024-08-03,Lightweight,MALE,0,1,0,3.0,0,0,0,0,0,0,0,Switch,175.26,185.42,30,Red
+Dustin Stoltzfus,2024-11-02,Middleweight,MALE,0,1,0,17.0,0,0,0,1,1,1,4,Orthodox,182.88,190.5,32,Blue
+Baergeng Jieleyisi,2024-11-23,Bantamweight,MALE,2,0,0,8.0,0,0,0,1,0,1,2,Orthodox,175.26,177.8,28,Red
+Giga Chikadze,2024-07-27,Featherweight,MALE,1,0,0,28.0,0,0,2,3,3,0,8,Orthodox,182.88,187.96,35,Blue
+Loik Radzhabov,2024-07-20,Lightweight,MALE,1,0,0,8.0,0,0,0,1,1,0,2,Orthodox,180.34,175.26,33,Red
+Ozzy Diaz,2024-11-23,Light Heavyweight,MALE,0,1,0,2.0,0,0,0,0,0,0,0,Orthodox,193.04,200.66,34,Blue
+Kaan Ofli,2024-08-24,Featherweight,MALE,0,0,0,0.0,0,0,0,0,0,0,0,Orthodox,170.18,167.64,31,Red
+Irene Aldana,2024-09-14,Women's Bantamweight,FEMALE,1,0,0,39.0,1,0,1,3,3,1,8,Orthodox,175.26,172.72,36,Red
+Jack Jenkins,2024-08-17,Featherweight,MALE,0,1,0,11.0,0,0,1,1,1,0,4,Switch,170.18,172.72,30,Red
+Kaynan Kruschewsky,2024-07-20,Lightweight,MALE,0,1,0,2.0,0,0,0,0,0,1,1,Orthodox,182.88,185.42,33,Blue
+Tatsuro Taira,2024-10-12,Flyweight,MALE,6,0,0,13.0,0,0,0,2,2,2,6,Orthodox,170.18,177.8,24,Blue
+Mackenzie Dern,2024-08-03,Women's Strawweight,FEMALE,0,2,0,36.0,0,0,2,2,0,4,9,Orthodox,162.56,160.02,31,Red
+Niko Price,2024-10-12,Welterweight,MALE,1,0,0,34.0,0,0,0,2,4,2,8,Orthodox,182.88,193.04,35,Blue
+Jhonata Diniz,2024-11-16,Heavyweight,MALE,3,0,0,6.0,0,0,0,1,2,0,3,Orthodox,193.04,200.66,33,Blue
+Aleksandar Rakic,2024-10-26,Light Heavyweight,MALE,0,2,0,22.0,0,0,0,4,2,0,6,Orthodox,193.04,198.12,32,Blue
+Kennedy Nzechukwu,2024-12-07,Heavyweight,MALE,1,0,0,31.0,0,0,1,1,6,1,10,Southpaw,195.58,210.82,32,Red
+Chidi Njokuani,2024-10-12,Welterweight,MALE,1,0,0,14.0,0,0,1,0,3,0,5,Orthodox,190.5,203.2,35,Red
+Lerone Murphy,2024-10-26,Featherweight,MALE,6,0,1,20.0,0,0,1,3,2,0,7,Orthodox,175.26,185.42,33,Red
+Julian Erosa,2024-07-13,Featherweight,MALE,1,0,0,31.0,0,0,2,1,2,3,9,Southpaw,185.42,187.96,34,Red
+Aoriqileng,2024-09-14,Bantamweight,MALE,1,0,0,16.0,0,0,0,2,1,0,3,Orthodox,170.18,175.26,31,Blue
+Charles Oliveira,2024-11-16,Lightweight,MALE,0,1,0,63.0,3,0,0,2,4,16,23,Orthodox,177.8,187.96,35,Red
+Jonathan Pearce,2024-10-12,Featherweight,MALE,0,2,0,21.0,0,0,0,2,3,1,6,Switch,182.88,180.34,32,Red
+Cory Sandhagen,2024-08-03,Bantamweight,MALE,3,0,0,39.0,1,0,2,2,5,1,10,Switch,180.34,177.8,32,Red
+Cory McKenna,2024-10-12,Women's Strawweight,FEMALE,0,1,0,15.0,0,0,0,3,0,1,4,Orthodox,160.02,147.32,25,Blue
+Alex Reyes,2024-08-17,Lightweight,MALE,0,2,0,2.0,0,0,0,0,0,0,0,Orthodox,180.34,185.42,37,Blue
+Gabriel Bonfim,2024-07-13,Welterweight,MALE,0,1,0,5.0,0,0,0,0,0,3,4,Orthodox,185.42,182.88,26,Red
+Victor Altamirano,2024-09-28,Flyweight,MALE,0,2,0,16.0,0,0,1,1,1,0,3,Switch,172.72,177.8,33,Blue
+Muhammad Mokaev,2024-07-27,Flyweight,MALE,6,0,0,16.0,0,0,0,2,0,4,7,Orthodox,170.18,177.8,23,Red
+Guram Kutateladze,2024-08-03,Lightweight,MALE,0,2,0,9.0,0,0,1,0,0,0,2,Orthodox,180.34,182.88,32,Red
+Stipe Miocic,2024-11-16,Heavyweight,MALE,0,1,0,46.0,8,0,0,5,9,0,14,Orthodox,193.04,203.2,42,Blue
+Kurt Holobaugh,2024-07-20,Lightweight,MALE,0,1,0,19.0,0,0,0,0,0,1,2,Orthodox,180.34,177.8,37,Red
+Elise Reed,2024-10-19,Women's Strawweight,FEMALE,0,1,0,17.0,0,0,1,2,0,0,4,Orthodox,160.02,160.02,31,Blue
+Sean Sharaf,2024-10-12,Heavyweight,MALE,0,0,0,0.0,0,0,0,0,0,0,0,Orthodox,190.5,195.58,31,Blue
+Brendan Allen,2024-09-28,Middleweight,MALE,7,0,0,33.0,0,0,1,3,1,8,13,Orthodox,187.96,190.5,28,Blue
+Xiao Long,2024-11-23,Bantamweight,MALE,0,1,0,12.0,0,1,1,0,0,0,3,Orthodox,172.72,177.8,26,Red
+Darren Elkins,2024-10-19,Featherweight,MALE,1,0,0,72.0,0,0,2,9,4,3,19,Orthodox,177.8,180.34,40,Red
+Daniel Barez,2024-09-28,Flyweight,MALE,0,2,0,4.0,0,0,0,0,0,0,1,Orthodox,167.64,167.64,35,Red
+Karine Silva,2024-11-16,Women's Flyweight,FEMALE,5,0,0,8.0,0,0,0,1,0,4,5,Orthodox,165.1,170.18,30,Blue
+Dan Ige,2024-10-26,Featherweight,MALE,0,1,0,49.0,0,0,2,3,4,2,11,Orthodox,170.18,180.34,33,Blue
+Ketlen Souza,2024-09-14,Women's Strawweight,FEMALE,1,0,0,4.0,0,0,0,1,0,0,2,Orthodox,160.02,160.02,30,Blue
+Oban Elliott,2024-11-16,Welterweight,MALE,3,0,0,9.0,0,1,0,2,0,0,4,Orthodox,182.88,182.88,26,Blue
+David Onama,2024-11-16,Lightweight,MALE,2,0,0,14.0,0,0,0,1,2,1,5,Orthodox,180.34,187.96,30,Red
+Alexander Volkov,2024-12-07,Heavyweight,MALE,4,0,0,44.0,0,0,1,4,6,1,12,Orthodox,200.66,203.2,36,Blue
+Leon Edwards,2024-07-27,Welterweight,MALE,12,0,0,60.0,3,1,1,8,3,1,14,Southpaw,187.96,187.96,32,Red
+Jose Aldo,2024-10-05,Bantamweight,MALE,1,0,0,90.0,15,0,0,11,11,0,22,Orthodox,170.18,177.8,38,Red
+Abus Magomedov,2024-10-26,Middleweight,MALE,1,0,0,9.0,0,0,0,1,1,0,3,Orthodox,187.96,198.12,34,Red
+Manel Kape,2024-07-27,Flyweight,MALE,4,0,0,14.0,0,0,0,2,2,0,4,Southpaw,165.1,172.72,30,Blue
+Dylan Budka,2024-09-07,Middleweight,MALE,0,1,0,5.0,0,0,0,1,0,0,1,Switch,182.88,190.5,24,Blue
+Karl Williams,2024-08-10,Heavyweight,MALE,4,0,0,12.0,0,0,0,4,0,0,4,Orthodox,190.5,200.66,34,Blue
+Khamzat Chimaev,2024-10-26,Middleweight,MALE,7,0,0,12.0,0,1,0,1,2,3,8,Orthodox,187.96,190.5,30,Blue
+Alexandre Pantoja,2024-12-07,Flyweight,MALE,6,0,0,42.0,3,0,2,4,2,4,13,Orthodox,165.1,170.18,34,Red
+Jean Silva,2024-07-13,Lightweight,MALE,3,0,0,6.0,0,0,0,1,2,0,4,Orthodox,170.18,175.26,27,Blue
+Jessica Andrade,2024-09-07,Women's Flyweight,FEMALE,2,0,0,57.0,4,0,2,6,6,3,17,Orthodox,154.94,157.48,32,Red
+Myktybek Orolbai,2024-10-26,Catch Weight,MALE,2,0,0,5.0,0,0,0,1,0,1,2,Orthodox,177.8,187.96,26,Blue
+Charles Johnson,2024-10-19,Flyweight,MALE,3,0,0,25.0,0,0,1,2,2,0,6,Switch,175.26,177.8,33,Red
+SuYoung You,2024-11-23,Bantamweight,MALE,2,0,0,6.0,0,0,1,1,0,0,3,Orthodox,167.64,165.1,28,Blue
+Alex Pereira,2024-10-05,Light Heavyweight,MALE,4,0,0,21.0,5,0,1,1,6,0,9,Orthodox,193.04,200.66,37,Red
+Shavkat Rakhmonov,2024-12-07,Welterweight,MALE,6,0,0,11.0,0,0,0,0,1,5,7,Orthodox,185.42,195.58,30,Red
+Robelis Despaigne,2024-10-19,Heavyweight,MALE,0,1,0,4.0,0,0,0,0,1,0,1,Orthodox,200.66,213.36,36,Blue
+Deiveson Figueiredo,2024-11-23,Bantamweight,MALE,3,0,1,44.0,6,0,1,4,4,4,13,Orthodox,165.1,172.72,36,Blue
+Sean Brady,2024-09-07,Welterweight,MALE,1,0,0,19.0,0,0,0,3,0,3,7,Orthodox,177.8,182.88,31,Blue
+Jose Daniel Medina,2024-08-24,Middleweight,MALE,0,1,0,3.0,0,0,0,0,0,0,0,Orthodox,182.88,187.96,33,Blue
+Rose Namajunas,2024-11-02,Women's Flyweight,FEMALE,2,0,0,52.0,7,0,2,4,2,3,11,Orthodox,165.1,165.1,32,Blue
+Cameron Smotherman,2024-10-19,Bantamweight,MALE,0,1,0,1.0,0,0,0,0,0,0,1,Orthodox,175.26,175.26,27,Blue
+Benoit Saint Denis,2024-09-28,Lightweight,MALE,0,1,0,13.0,0,0,0,0,3,2,5,Southpaw,180.34,185.42,28,Blue
+Herbert Burns,2024-08-17,Featherweight,MALE,0,3,0,9.0,0,0,0,0,1,2,3,Orthodox,175.26,185.42,36,Blue
+Sedriques Dumas,2024-08-03,Middleweight,MALE,0,1,0,10.0,0,0,0,2,0,1,4,Orthodox,187.96,200.66,28,Red
+Michael Chiesa,2024-12-07,Welterweight,MALE,1,0,0,41.0,1,0,0,5,0,7,13,Southpaw,185.42,190.5,37,Red
+Clay Guida,2024-12-07,Lightweight,MALE,0,2,0,105.0,2,0,4,9,2,5,20,Orthodox,170.18,177.8,42,Red
+Miranda Maverick,2024-07-20,Women's Flyweight,FEMALE,2,0,0,24.0,0,0,0,3,1,2,7,Southpaw,160.02,165.1,27,Red
+Serhiy Sidey,2024-11-02,Bantamweight,MALE,0,1,0,4.0,0,0,0,0,1,0,2,Switch,180.34,182.88,28,Red
+Gabriel Santos,2024-09-07,Featherweight,MALE,0,2,0,5.0,0,0,0,0,0,0,1,Orthodox,175.26,177.8,27,Blue
+Alonzo Menifield,2024-08-03,Light Heavyweight,MALE,0,1,1,27.0,0,0,0,2,6,2,10,Orthodox,182.88,193.04,36,Blue
+Farid Basharat,2024-10-26,Featherweight,MALE,4,0,0,10.0,0,0,0,3,0,1,5,Orthodox,172.72,180.34,27,Red
+Alex Morono,2024-10-12,Welterweight,MALE,0,1,0,53.0,0,0,1,8,2,2,13,Orthodox,180.34,182.88,34,Blue
+Brandon Moreno,2024-11-02,Flyweight,MALE,0,2,2,53.0,6,0,1,2,3,3,10,Orthodox,170.18,177.8,30,Red
+Bassil Hafez,2024-11-16,Welterweight,MALE,1,0,0,6.0,0,0,0,1,0,0,1,Orthodox,180.34,182.88,32,Red
+Victor Hugo,2024-10-26,Featherweight,MALE,2,0,0,5.0,0,0,0,1,0,1,2,Orthodox,170.18,180.34,31,Blue
+Valter Walker,2024-08-17,Heavyweight,MALE,0,1,0,3.0,0,0,0,0,0,0,1,Orthodox,198.12,198.12,26,Blue
+James Llontop,2024-11-16,Catch Weight,MALE,0,2,0,7.0,0,0,0,1,0,0,1,Orthodox,182.88,185.42,25,Blue
+Gabriella Fernandes,2024-11-23,Women's Flyweight,FEMALE,1,0,0,9.0,0,0,1,0,0,0,2,Southpaw,167.64,167.64,31,Blue
+Mairon Santos,2024-08-24,Featherweight,MALE,0,0,0,0.0,0,0,0,0,0,0,1,Orthodox,170.18,182.88,24,Blue
+Steve Erceg,2024-08-17,Flyweight,MALE,0,1,0,13.0,1,0,0,2,1,0,3,Orthodox,172.72,172.72,29,Blue
+Jiri Prochazka,2024-06-29,Light Heavyweight,MALE,1,0,0,13.0,2,0,0,0,3,1,4,Orthodox,190.5,203.2,31,Blue
+Zachary Reese,2024-08-24,Middleweight,MALE,1,0,0,3.0,0,0,0,0,1,1,3,Switch,193.04,195.58,30,Red
+Rolando Bedoya,2024-08-03,Lightweight,MALE,0,2,0,6.0,0,0,0,0,0,0,0,Orthodox,180.34,187.96,27,Blue
+Ion Cutelaba,2024-09-28,Light Heavyweight,MALE,0,1,1,30.0,0,0,0,2,4,0,7,Southpaw,185.42,190.5,30,Red
+King Green,2024-07-27,Lightweight,MALE,1,0,1,75.0,0,0,2,8,3,4,17,Orthodox,177.8,180.34,37,Red
+Iasmin Lucindo,2024-10-05,Women's Strawweight,FEMALE,3,0,0,11.0,0,0,0,2,0,1,4,Orthodox,160.02,167.64,22,Blue
+Lone'er Kavanagh,2024-11-23,Flyweight,MALE,1,0,0,1.0,0,0,0,0,1,0,2,Orthodox,162.56,170.18,25,Red
+Nassourdine Imavov,2024-09-28,Middleweight,MALE,2,0,0,29.0,0,1,0,2,3,0,7,Orthodox,190.5,190.5,29,Red
+Nyamjargal Tumendemberel,2024-11-23,Flyweight,MALE,2,0,0,4.0,0,0,1,0,0,1,2,Orthodox,170.18,180.34,26,Red
+Aljamain Sterling,2024-12-07,Featherweight,MALE,1,0,0,57.0,5,0,2,7,2,4,16,Orthodox,170.18,180.34,35,Blue
+Joel Alvarez,2024-08-03,Lightweight,MALE,1,0,0,12.0,0,0,0,0,2,3,6,Orthodox,190.5,195.58,31,Red
+Marina Rodriguez,2024-10-05,Women's Strawweight,FEMALE,0,1,2,42.0,0,0,1,4,3,0,8,Orthodox,167.64,165.1,37,Red
+Jack Shore,2024-11-02,Featherweight,MALE,0,1,0,20.0,0,0,1,2,0,3,6,Orthodox,172.72,180.34,29,Red
+Esteban Ribovics,2024-09-14,Lightweight,MALE,2,0,0,8.0,0,0,0,1,2,0,4,Orthodox,177.8,175.26,28,Blue
+JeongYeong Lee,2024-07-20,Featherweight,MALE,4,0,0,8.0,1,0,1,1,1,1,4,Orthodox,177.8,185.42,28,Red
+Macy Chiasson,2024-06-29,Women's Bantamweight,FEMALE,1,0,0,23.0,1,0,1,2,2,2,8,Orthodox,180.34,182.88,32,Blue
+Joanderson Brito,2024-09-28,Featherweight,MALE,5,0,0,13.0,0,0,0,1,3,2,6,Orthodox,172.72,182.88,29,Blue
+Andre Petroski,2024-09-07,Middleweight,MALE,1,0,0,19.0,0,0,1,2,1,2,7,Switch,182.88,185.42,33,Red
+Elizeu Zaleski dos Santos,2024-11-09,Welterweight,MALE,0,1,1,40.0,0,0,2,4,3,1,11,Orthodox,180.34,185.42,37,Red
+Themba Gorimbo,2024-12-07,Welterweight,MALE,4,0,0,12.0,0,0,0,3,1,0,4,Orthodox,185.42,195.58,33,Blue
+Joshua Van,2024-12-07,Flyweight,MALE,1,0,0,14.0,0,0,1,2,1,0,5,Orthodox,165.1,165.1,23,Blue
+Josiane Nunes,2024-08-24,Women's Bantamweight,FEMALE,0,1,0,10.0,0,0,0,2,1,0,3,Southpaw,157.48,170.18,30,Blue
+Trevor Peek,2024-09-07,Lightweight,MALE,0,1,0,12.0,0,0,0,1,2,0,3,Switch,175.26,177.8,29,Red
+Muslim Salikhov,2024-11-23,Welterweight,MALE,1,0,0,26.0,0,0,2,2,3,0,8,Orthodox,180.34,177.8,40,Blue
+Edgar Chairez,2024-09-14,Flyweight,MALE,1,0,0,8.0,0,0,0,0,0,1,1,Orthodox,170.18,180.34,28,Red
+Gillian Robertson,2024-11-09,Women's Strawweight,FEMALE,2,0,0,37.0,0,0,0,2,2,7,12,Orthodox,165.1,160.02,29,Blue
+Ciryl Gane,2024-12-07,Heavyweight,MALE,1,0,0,33.0,3,0,0,3,4,2,10,Orthodox,193.04,205.74,34,Red
+Carlos Ulberg,2024-11-23,Light Heavyweight,MALE,6,0,0,13.0,0,0,0,1,5,1,8,Orthodox,193.04,195.58,34,Blue
+Andre Lima,2024-09-07,Flyweight,MALE,3,0,0,8.0,0,0,1,1,0,0,4,Orthodox,170.18,170.18,25,Blue
+Chase Hooper,2024-12-07,Lightweight,MALE,3,0,0,23.0,0,0,0,2,2,3,8,Southpaw,185.42,187.96,25,Blue
+Lukasz Brzeski,2024-12-07,Heavyweight,MALE,0,1,0,14.0,0,0,0,1,0,1,2,Orthodox,193.04,198.12,32,Blue
+Ode Osbourne,2024-09-14,Flyweight,MALE,0,2,0,15.0,0,0,1,1,2,1,5,Southpaw,170.18,185.42,32,Blue
+Nate Landwehr,2024-12-07,Featherweight,MALE,1,0,0,17.0,0,1,0,1,1,2,5,Orthodox,175.26,182.88,36,Red
+Cody Haddon,2024-10-12,Bantamweight,MALE,1,0,0,1.0,0,0,0,0,0,1,2,Orthodox,170.18,175.26,26,Blue
+Jai Herbert,2024-08-03,Lightweight,MALE,0,1,1,17.0,0,0,0,1,1,0,3,Orthodox,185.42,195.58,36,Red
+Daniel Rodriguez,2024-10-12,Welterweight,MALE,0,3,0,29.0,0,0,1,4,2,1,9,Southpaw,185.42,187.96,37,Red
+Dominick Reyes,2024-12-07,Light Heavyweight,MALE,1,0,0,21.0,2,0,1,1,4,1,8,Southpaw,193.04,195.58,34,Red
+Modestas Bukauskas,2024-07-27,Light Heavyweight,MALE,0,1,0,15.0,0,0,0,2,1,0,4,Switch,190.5,198.12,30,Red
+Jon Jones,2024-11-16,Heavyweight,MALE,18,0,0,74.0,16,0,1,9,5,6,22,Orthodox,193.04,213.36,37,Red
+Alexandr Romanov,2024-11-02,Heavyweight,MALE,0,1,0,17.0,0,0,1,1,1,3,7,Southpaw,187.96,190.5,33,Red
+Michel Pereira,2024-10-19,Middleweight,MALE,8,0,0,25.0,0,0,1,3,2,3,9,Orthodox,185.42,185.42,31,Blue
+Steve Garcia,2024-09-07,Featherweight,MALE,4,0,0,13.0,0,0,0,0,6,0,7,Southpaw,182.88,190.5,32,Red
+Nikolay Veretennikov,2024-08-10,Welterweight,MALE,0,1,0,3.0,0,0,0,0,0,0,0,Orthodox,185.42,190.5,34,Blue
+Brian Kelleher,2024-07-20,Bantamweight,MALE,0,3,0,31.0,0,0,0,3,2,3,8,Switch,167.64,167.64,37,Red
+Ludovit Klein,2024-09-28,Lightweight,MALE,5,0,1,23.0,0,0,1,3,2,0,7,Southpaw,170.18,182.88,29,Red
+Charalampos Grigoriou,2024-08-10,Bantamweight,MALE,0,1,0,4.0,0,0,0,0,1,0,1,Orthodox,170.18,170.18,32,Blue
+Jaqueline Amorim,2024-09-07,Women's Strawweight,FEMALE,2,0,0,7.0,0,0,0,0,1,1,3,Orthodox,160.02,172.72,29,Red
+Mateusz Gamrot,2024-08-17,Lightweight,MALE,3,0,0,24.0,0,0,1,2,3,1,7,Southpaw,177.8,177.8,33,Red
+Nora Cornolle,2024-09-28,Women's Bantamweight,FEMALE,2,0,0,5.0,0,0,0,1,1,0,2,Orthodox,170.18,170.18,34,Red
+Viktoriia Dudakova,2024-08-03,Women's Strawweight,FEMALE,3,0,0,7.0,0,0,0,2,1,0,3,Orthodox,165.1,170.18,25,Red
+Serghei Spivac,2024-08-10,Heavyweight,MALE,0,1,0,21.0,0,1,0,1,3,2,8,Orthodox,190.5,198.12,29,Blue
+Ryan Loder,2024-08-24,Middleweight,MALE,0,0,0,0.0,0,0,0,0,0,0,1,Southpaw,187.96,193.04,33,Blue
+Manuel Torres,2024-09-14,Lightweight,MALE,4,0,0,4.0,0,0,0,0,3,1,4,Switch,177.8,185.42,29,Red
+Anthony Hernandez,2024-10-19,Middleweight,MALE,5,0,0,19.0,0,0,0,1,1,4,7,Orthodox,182.88,190.5,31,Red
+Brandon Royval,2024-10-12,Flyweight,MALE,1,0,0,22.0,1,0,2,0,1,3,7,Southpaw,175.26,172.72,32,Red
+Kevin Holland,2024-10-05,Middleweight,MALE,1,0,0,57.0,0,0,2,2,5,5,14,Orthodox,190.5,205.74,31,Blue
+Tamires Vidal,2024-10-19,Women's Bantamweight,FEMALE,0,2,0,7.0,0,0,0,0,1,0,1,Orthodox,167.64,172.72,26,Blue
+Darrius Flowers,2024-07-13,Welterweight,MALE,0,2,0,6.0,0,0,0,0,0,1,1,Orthodox,175.26,180.34,29,Blue
+Paddy Pimblett,2024-07-27,Lightweight,MALE,5,0,0,10.0,0,0,0,2,1,2,6,Orthodox,177.8,185.42,29,Blue
+Mauricio Ruffy,2024-11-16,Catch Weight,MALE,2,0,0,4.0,0,0,0,0,2,0,3,Orthodox,180.34,190.5,28,Red
+Karolina Kowalkiewicz,2024-11-09,Women's Strawweight,FEMALE,0,1,0,46.0,1,0,2,6,0,1,9,Orthodox,160.02,162.56,39,Red
+Vanessa Demopoulos,2024-09-07,Women's Strawweight,FEMALE,2,0,0,22.0,0,0,2,2,0,1,5,Orthodox,157.48,149.86,35,Blue
+Virna Jandiroba,2024-07-20,Women's Strawweight,FEMALE,3,0,0,23.0,0,0,0,3,1,2,7,Orthodox,160.02,162.56,36,Blue
+Angela Hill,2024-08-24,Women's Strawweight,FEMALE,2,0,0,73.0,0,0,0,9,2,1,12,Orthodox,160.02,162.56,39,Red
+Zhang Mingyang,2024-11-23,Light Heavyweight,MALE,2,0,0,2.0,0,0,0,0,2,0,3,Orthodox,187.96,190.5,26,Red
+Brad Katona,2024-10-19,Bantamweight,MALE,1,0,0,21.0,1,0,0,4,0,0,4,Orthodox,167.64,162.56,32,Red
+Clayton Carpenter,2024-10-12,Flyweight,MALE,2,0,0,4.0,0,0,0,1,0,1,3,Orthodox,167.64,167.64,28,Red
+Li Jingliang,2024-08-17,Welterweight,MALE,0,1,0,39.0,0,0,1,2,8,0,11,Orthodox,182.88,180.34,36,Red
+Brendon Marotte,2024-09-07,Featherweight,MALE,0,1,0,1.0,0,0,0,0,0,0,0,Orthodox,175.26,177.8,28,Blue
+Mansur Abdul-Malik,2024-11-09,Middleweight,MALE,1,0,0,2.0,0,0,0,0,1,0,2,Orthodox,187.96,200.66,27,Red
+Chris Weidman,2024-12-07,Catch Weight,MALE,1,0,0,46.0,5,0,0,5,4,3,12,Orthodox,187.96,198.12,40,Red
+Vicente Luque,2024-12-07,Welterweight,MALE,0,1,0,47.0,0,0,1,1,8,5,16,Orthodox,180.34,190.5,33,Red
+Kiefer Crosbie,2024-07-27,Welterweight,MALE,0,1,0,1.0,0,0,0,0,0,0,0,Switch,180.34,177.8,34,Blue
+Jake Hadley,2024-10-19,Bantamweight,MALE,1,0,0,17.0,0,0,0,1,1,2,4,Southpaw,170.18,177.8,28,Red
+Yan Xiaonan,2024-11-23,Women's Strawweight,FEMALE,0,1,0,34.0,1,1,0,6,1,0,9,Orthodox,165.1,160.02,35,Red
+Ihor Potieria,2024-10-05,Middleweight,MALE,0,1,0,11.0,0,0,0,1,2,0,3,Southpaw,190.5,190.5,28,Blue
+Rafa Garcia,2024-10-12,Lightweight,MALE,2,0,0,20.0,0,0,0,3,0,1,4,Orthodox,170.18,177.8,30,Blue
+Ailin Perez,2024-09-28,Women's Bantamweight,FEMALE,3,0,0,11.0,0,0,0,3,0,0,4,Switch,165.1,167.64,29,Red
+Natalia Silva,2024-09-07,Women's Flyweight,FEMALE,5,0,0,13.0,0,0,0,3,2,0,6,Southpaw,162.56,165.1,27,Blue
+Charles Radtke,2024-11-09,Welterweight,MALE,0,1,0,5.0,0,0,0,1,1,0,3,Orthodox,175.26,182.88,34,Blue
+Cody Stamann,2024-11-09,Bantamweight,MALE,0,2,1,37.0,0,0,2,4,1,0,7,Orthodox,167.64,162.56,35,Red
+Isaac Dulgarian,2024-09-07,Featherweight,MALE,0,1,0,4.0,0,0,0,0,1,0,2,Orthodox,170.18,180.34,28,Red
+Dricus Du Plessis,2024-08-17,Middleweight,MALE,7,0,0,18.0,1,0,1,1,4,1,8,Switch,185.42,193.04,30,Red
+Rafael Cerqueira,2024-10-26,Light Heavyweight,MALE,0,0,0,0.0,0,0,0,0,0,0,0,Southpaw,190.5,193.04,34,Blue
+Mick Parkin,2024-07-27,Heavyweight,MALE,4,0,0,10.0,0,0,0,3,0,1,5,Orthodox,193.04,200.66,28,Red
+Shi Ming,2024-11-23,Women's Strawweight,FEMALE,2,0,0,6.0,0,0,1,1,0,0,3,Orthodox,157.48,152.4,30,Red
+Jordan Vucenic,2024-08-03,Lightweight,MALE,0,0,0,0.0,0,0,0,0,0,0,0,Orthodox,177.8,185.42,28,Blue
+Tom Aspinall,2024-07-27,Heavyweight,MALE,2,0,0,9.0,1,0,0,0,5,2,8,Orthodox,195.58,198.12,31,Red
+Chris Gutierrez,2024-08-10,Bantamweight,MALE,0,1,1,33.0,0,0,2,3,3,0,9,Orthodox,175.26,170.18,33,Red
+Sumudaerji,2024-10-19,Flyweight,MALE,0,2,0,12.0,0,0,0,2,1,0,3,Southpaw,172.72,182.88,28,Blue
+Azamat Murzakanov,2024-08-03,Light Heavyweight,MALE,4,0,0,10.0,0,0,0,1,3,0,5,Southpaw,177.8,180.34,35,Red
+Sean O'Malley,2024-09-14,Bantamweight,MALE,6,0,0,29.0,2,0,1,3,7,0,11,Switch,180.34,182.88,29,Red
+Dennis Buzukja,2024-08-24,Lightweight,MALE,1,0,0,13.0,0,0,0,1,1,0,2,Switch,175.26,177.8,26,Red
+Alexa Grasso,2024-09-14,Women's Flyweight,FEMALE,5,0,1,37.0,2,0,1,5,0,2,8,Orthodox,165.1,167.64,31,Red
+Nathan Fletcher,2024-09-07,Featherweight,MALE,0,0,0,0.0,0,0,0,0,0,0,1,Orthodox,170.18,177.8,26,Blue
+Ian Machado Garry,2024-12-07,Welterweight,MALE,8,0,0,20.0,0,0,1,4,3,0,8,Orthodox,190.5,187.96,27,Blue
+Amanda Lemos,2024-07-20,Women's Strawweight,FEMALE,1,0,0,25.0,1,0,1,2,3,2,8,Southpaw,162.56,165.1,37,Red
+Melissa Mullins,2024-11-09,Women's Bantamweight,FEMALE,0,1,0,5.0,0,0,0,1,0,0,2,Orthodox,170.18,172.72,33,Red
+Jacqueline Cavalcanti,2024-09-28,Women's Bantamweight,FEMALE,2,0,0,6.0,0,0,1,1,0,0,3,Orthodox,172.72,177.8,27,Blue
+Song Kenan,2024-11-23,Welterweight,MALE,1,0,0,23.0,0,0,0,3,3,0,6,Orthodox,182.88,180.34,34,Red
+Brad Tavares,2024-10-12,Middleweight,MALE,0,1,0,65.0,0,0,3,10,2,0,15,Orthodox,185.42,187.96,36,Red
+Daniel Pineda,2024-10-19,Featherweight,MALE,0,2,0,27.0,0,0,0,0,1,4,5,Orthodox,170.18,175.26,39,Blue
+Gilbert Burns,2024-09-07,Welterweight,MALE,0,2,0,57.0,1,0,0,7,3,5,15,Orthodox,177.8,180.34,38,Red
+Amir Albazi,2024-11-02,Flyweight,MALE,5,0,0,13.0,0,0,1,1,1,2,5,Orthodox,165.1,172.72,31,Blue
+Klaudia Sygula,2024-11-09,Women's Bantamweight,FEMALE,0,0,0,0.0,0,0,0,0,0,0,0,Orthodox,172.72,175.26,25,Blue
+Kyle Nelson,2024-09-07,Featherweight,MALE,3,0,1,22.0,0,0,0,2,2,0,4,Switch,180.34,180.34,33,Blue
+Thomas Petersen,2024-07-20,Heavyweight,MALE,0,1,0,5.0,0,0,0,0,0,1,2,Southpaw,185.42,187.96,29,Blue
+Molly McCann,2024-07-27,Women's Strawweight,FEMALE,1,0,0,27.0,0,0,0,4,2,1,7,Orthodox,162.56,157.48,34,Red
+Umar Nurmagomedov,2024-08-03,Bantamweight,MALE,5,0,0,10.0,0,0,0,2,1,2,6,Orthodox,172.72,175.26,28,Blue
+Pedro Munhoz,2024-11-02,Bantamweight,MALE,0,2,0,51.0,0,0,0,4,3,3,10,Orthodox,167.64,165.1,38,Blue
+Geoff Neal,2024-10-26,Welterweight,MALE,0,2,0,30.0,0,0,1,1,5,1,9,Southpaw,180.34,190.5,34,Red
+Norma Dumont,2024-09-14,Women's Bantamweight,FEMALE,4,0,0,27.0,0,0,1,6,0,0,8,Orthodox,170.18,170.18,33,Blue
+Jamey-Lyn Horth,2024-11-02,Women's Flyweight,FEMALE,0,1,0,6.0,0,0,0,1,0,0,2,Orthodox,170.18,167.64,34,Red
+Ketlen Vieira,2024-10-05,Women's Bantamweight,FEMALE,1,0,0,34.0,0,0,3,4,0,1,8,Orthodox,172.72,172.72,33,Red
+Petr Yan,2024-11-23,Bantamweight,MALE,1,0,0,45.0,4,0,0,5,4,0,10,Switch,170.18,170.18,31,Red
+Matthew Semelsberger,2024-11-09,Welterweight,MALE,0,3,0,26.0,0,0,0,3,2,0,5,Switch,185.42,190.5,31,Red
+Ilia Topuria,2024-10-26,Featherweight,MALE,7,0,0,16.0,1,0,0,2,4,1,8,Orthodox,170.18,175.26,27,Red
+Ignacio Bahamondes,2024-09-14,Lightweight,MALE,1,0,0,18.0,0,0,0,1,3,1,6,Orthodox,190.5,190.5,27,Blue
+Chad Anheliger,2024-11-02,Bantamweight,MALE,1,0,0,15.0,0,0,1,1,1,0,3,Orthodox,167.64,162.56,37,Red
+Josh Fremd,2024-07-13,Middleweight,MALE,0,1,0,12.0,0,0,0,1,0,1,2,Orthodox,193.04,193.04,30,Red
+Lucas Rocha,2024-10-12,Flyweight,MALE,1,0,0,2.0,0,0,0,0,1,0,1,Orthodox,160.02,162.56,24,Blue
+Jim Miller,2024-11-16,Lightweight,MALE,0,1,0,99.0,0,0,2,6,6,12,27,Southpaw,172.72,180.34,41,Red
+Damon Jackson,2024-11-16,Lightweight,MALE,0,1,1,30.0,0,0,1,2,1,2,6,Switch,180.34,180.34,36,Blue
+Victoria Leonardo,2024-08-24,Women's Flyweight,FEMALE,0,1,0,10.0,0,0,0,1,1,0,2,Orthodox,165.1,162.56,34,Blue
+Asu Almabayev,2024-10-19,Flyweight,MALE,3,0,0,8.0,0,0,0,2,0,1,4,Orthodox,162.56,165.1,30,Blue
+CJ Vergara,2024-10-12,Flyweight,MALE,0,1,0,17.0,0,0,1,1,2,0,4,Orthodox,167.64,172.72,33,Red
+Renato Moicano,2024-09-28,Lightweight,MALE,3,0,0,35.0,0,0,2,2,1,6,12,Orthodox,180.34,182.88,35,Red
+Fatima Kline,2024-07-13,Women's Flyweight,FEMALE,0,0,0,0.0,0,0,0,0,0,0,0,Orthodox,167.64,170.18,24,Blue
+William Gomis,2024-09-28,Featherweight,MALE,3,0,0,9.0,0,0,1,1,1,0,4,Southpaw,182.88,185.42,27,Red
+Raquel Pennington,2024-10-05,Women's Bantamweight,FEMALE,6,0,0,54.0,2,0,3,7,0,3,13,Orthodox,170.18,170.18,36,Red
+Dan Hooker,2024-08-17,Lightweight,MALE,2,0,0,48.0,0,0,2,2,7,2,14,Switch,182.88,190.5,34,Blue
+Melissa Martinez,2024-10-19,Women's Strawweight,FEMALE,0,1,0,3.0,0,0,0,0,0,0,1,Southpaw,157.48,167.64,27,Red
+Yazmin Jauregui,2024-09-14,Women's Strawweight,FEMALE,1,0,0,9.0,0,0,0,2,1,0,3,Orthodox,160.02,162.56,25,Red
+Matt Frevola,2024-09-28,Lightweight,MALE,0,1,1,20.0,0,0,1,1,3,1,6,Orthodox,175.26,180.34,34,Blue
+Jairzinho Rozenstruik,2024-08-17,Heavyweight,MALE,1,0,0,28.0,0,0,0,0,8,0,9,Orthodox,187.96,198.12,36,Blue
+Eryk Anders,2024-12-07,Catch Weight,MALE,1,0,0,44.0,0,0,1,3,4,0,9,Southpaw,185.42,190.5,37,Blue
+Hyder Amil,2024-07-20,Featherweight,MALE,2,0,0,5.0,0,0,0,1,1,0,3,Switch,175.26,177.8,34,Blue
+Curtis Blaydes,2024-07-27,Heavyweight,MALE,1,0,0,41.0,0,0,0,5,8,0,13,Orthodox,193.04,203.2,33,Blue
+Michael Morales,2024-08-24,Welterweight,MALE,5,0,0,13.0,0,0,0,3,2,0,6,Orthodox,182.88,200.66,25,Blue
+Kron Gracie,2024-12-07,Featherweight,MALE,0,2,0,7.0,0,0,0,0,0,1,1,Southpaw,175.26,177.8,36,Blue
+Vince Morales,2024-09-28,Bantamweight,MALE,0,2,0,23.0,0,0,0,2,1,0,3,Orthodox,170.18,177.8,33,Blue
+Carlos Hernandez,2024-11-23,Flyweight,MALE,0,2,0,15.0,0,0,2,1,0,0,4,Orthodox,172.72,170.18,31,Blue
+Armen Petrosyan,2024-10-26,Middleweight,MALE,0,1,0,14.0,0,0,1,2,1,0,4,Orthodox,190.5,180.34,33,Blue
+Dione Barbosa,2024-07-20,Women's Flyweight,FEMALE,2,0,0,4.0,0,0,0,1,0,1,2,Orthodox,167.64,167.64,32,Blue
+Mario Bautista,2024-10-05,Bantamweight,MALE,6,0,0,20.0,0,0,0,4,1,3,9,Switch,175.26,175.26,31,Blue
+Volkan Oezdemir,2024-11-23,Light Heavyweight,MALE,2,0,0,31.0,1,0,2,1,4,1,8,Orthodox,187.96,190.5,35,Red
+Mickey Gall,2024-11-16,Welterweight,MALE,0,3,0,24.0,0,0,0,1,0,5,6,Switch,187.96,187.96,32,Red
+Jarno Errens,2024-08-10,Featherweight,MALE,1,0,0,9.0,0,0,0,1,0,0,1,Orthodox,180.34,185.42,29,Blue
+Carla Esparza,2024-10-05,Women's Strawweight,FEMALE,0,1,0,44.0,4,1,3,4,1,1,10,Orthodox,154.94,160.02,36,Red
+Aiemann Zahabi,2024-11-02,Bantamweight,MALE,4,0,0,17.0,0,0,0,3,2,0,6,Orthodox,172.72,172.72,36,Red
+Fares Ziam,2024-09-28,Lightweight,MALE,3,0,0,19.0,0,1,1,3,0,0,6,Orthodox,185.42,190.5,27,Red
+Movsar Evloev,2024-12-07,Featherweight,MALE,8,0,0,24.0,0,0,1,7,0,0,9,Orthodox,170.18,182.88,30,Red
+Tai Tuivasa,2024-08-17,Heavyweight,MALE,0,4,0,26.0,0,0,0,1,7,0,8,Southpaw,187.96,190.5,31,Red
+Marcus McGhee,2024-11-16,Bantamweight,MALE,3,0,0,5.0,0,0,0,0,2,1,4,Orthodox,172.72,175.26,34,Blue
+Antonio Trocoli,2024-11-09,Middleweight,MALE,0,1,0,4.0,0,0,0,0,0,0,0,Orthodox,198.12,200.66,33,Blue
+Wang Cong,2024-11-23,Women's Flyweight,FEMALE,2,0,0,2.0,0,0,0,0,1,1,2,Southpaw,167.64,167.64,32,Red
+Luana Carolina,2024-07-20,Women's Flyweight,FEMALE,2,0,0,25.0,0,0,1,4,1,0,7,Orthodox,167.64,175.26,31,Red
+Drew Dober,2024-07-13,Lightweight,MALE,0,1,0,47.0,0,0,0,3,10,1,14,Southpaw,172.72,177.8,35,Red
+Nikolas Motta,2024-11-23,Lightweight,MALE,1,0,0,11.0,0,0,0,1,2,0,4,Orthodox,175.26,177.8,31,Blue
+Rongzhu,2024-09-07,Lightweight,MALE,3,0,0,16.0,1,0,0,1,2,1,4,Orthodox,175.26,182.88,24,Red
+Julianna Pena,2024-10-05,Women's Bantamweight,FEMALE,0,1,0,26.0,3,0,0,3,2,2,8,Orthodox,167.64,175.26,35,Blue
+Belal Muhammad,2024-07-27,Welterweight,MALE,9,0,0,54.0,0,0,1,10,2,1,15,Orthodox,180.34,182.88,36,Blue
+Alexander Hernandez,2024-10-05,Lightweight,MALE,0,2,0,29.0,0,0,0,3,3,0,7,Orthodox,175.26,182.88,32,Blue
+Jared Cannonier,2024-08-24,Middleweight,MALE,0,1,0,49.0,1,0,1,3,6,0,10,Switch,180.34,195.58,40,Red
+Shara Magomedov,2024-10-26,Middleweight,MALE,3,0,0,9.0,0,0,0,2,1,0,4,Orthodox,187.96,185.42,30,Red
+Rodrigo Nascimento,2024-11-02,Heavyweight,MALE,0,1,0,18.0,0,0,2,1,0,2,5,Orthodox,187.96,203.2,31,Blue
+Loopy Godinez,2024-08-03,Women's Strawweight,FEMALE,0,1,0,30.0,0,0,2,3,0,2,7,Orthodox,157.48,154.94,30,Blue
+Dooho Choi,2024-12-07,Featherweight,MALE,1,0,1,15.0,0,0,0,0,4,0,5,Orthodox,177.8,177.8,33,Blue
+Cortavious Romious,2024-11-09,Bantamweight,MALE,1,0,0,4.0,0,0,0,1,0,0,1,Southpaw,162.56,172.72,30,Blue
+Da'Mon Blackshear,2024-11-09,Bantamweight,MALE,0,2,1,13.0,0,0,0,0,1,1,3,Switch,177.8,182.88,30,Blue
+Eduarda Moura,2024-11-16,Women's Flyweight,FEMALE,0,1,0,6.0,0,0,0,0,1,1,3,Orthodox,167.64,167.64,30,Blue
+Mike Malott,2024-11-02,Welterweight,MALE,0,1,0,8.0,0,0,0,0,1,3,5,Orthodox,185.42,185.42,32,Red
+Victor Henry,2024-11-02,Bantamweight,MALE,2,0,0,14.0,0,0,1,1,1,0,3,Switch,170.18,172.72,37,Blue
+Tom Nolan,2024-08-17,Lightweight,MALE,1,0,0,3.0,0,0,0,0,2,0,3,Southpaw,190.5,185.42,24,Red
+Josh Culibao,2024-08-17,Featherweight,MALE,0,2,1,19.0,0,0,1,1,0,1,3,Orthodox,177.8,185.42,30,Red
+Shauna Bannon,2024-07-27,Women's Strawweight,FEMALE,0,1,0,3.0,0,0,0,0,0,0,1,Switch,165.1,165.1,30,Red
+Viacheslav Borshchev,2024-08-24,Lightweight,MALE,0,1,1,16.0,0,0,0,0,3,0,4,Orthodox,180.34,175.26,32,Red
+JunYong Park,2024-10-12,Middleweight,MALE,0,1,0,24.0,0,1,1,2,0,3,8,Orthodox,177.8,185.42,33,Blue
+Ricky Glenn,2024-08-17,Welterweight,MALE,0,2,1,24.0,0,0,2,1,1,0,4,Southpaw,182.88,177.8,35,Blue
+Morgan Charriere,2024-09-28,Featherweight,MALE,0,1,0,4.0,0,0,0,0,1,0,2,Orthodox,172.72,175.26,28,Red
+Max Holloway,2024-10-26,Featherweight,MALE,3,0,0,98.0,9,0,1,8,11,2,22,Orthodox,180.34,175.26,32,Blue
+Marcin Prachnio,2024-07-27,Light Heavyweight,MALE,1,0,0,20.0,0,0,0,3,1,0,4,Orthodox,190.5,187.96,36,Blue
+Court McGee,2024-10-05,Welterweight,MALE,0,3,0,59.0,1,0,1,7,0,2,11,Orthodox,180.34,190.5,39,Red
+Mariya Agapova,2024-07-13,Women's Flyweight,FEMALE,0,2,0,13.0,0,0,0,0,0,2,2,Southpaw,167.64,172.72,27,Blue
+Julia Polastri,2024-10-12,Women's Strawweight,FEMALE,0,1,0,8.0,0,0,0,0,0,1,2,Orthodox,157.48,160.02,26,Red
+Sam Hughes,2024-08-03,Women's Strawweight,FEMALE,0,1,0,22.0,0,1,0,1,1,0,4,Orthodox,165.1,162.56,32,Blue
+Bruno Silva,2024-10-26,Middleweight,MALE,0,3,0,19.0,0,0,0,0,4,0,4,Orthodox,182.88,187.96,35,Blue
+Kiru Sahota,2024-11-23,Flyweight,MALE,2,0,0,6.0,0,0,1,1,0,0,2,Orthodox,177.8,185.42,29,Red
+Bo Nickal,2024-11-16,Middleweight,MALE,5,0,0,6.0,0,0,0,0,1,4,6,Southpaw,185.42,193.04,28,Red
+Gaston Bolanos,2024-11-09,Bantamweight,MALE,0,1,0,5.0,0,0,0,1,0,0,2,Orthodox,170.18,175.26,32,Red
+Roberto Romero,2024-11-16,Lightweight,MALE,0,0,0,0.0,0,0,0,0,0,0,0,Orthodox,172.72,177.8,24,Blue
+Jean Matsumoto,2024-10-19,Bantamweight,MALE,2,0,0,5.0,0,0,0,1,0,1,3,Orthodox,167.64,172.72,25,Blue
+Yanal Ashmouz,2024-09-07,Lightweight,MALE,0,1,0,4.0,0,0,0,0,1,0,2,Orthodox,175.26,175.26,29,Blue
+Ramazan Temirov,2024-10-12,Flyweight,MALE,0,0,0,0.0,0,0,0,0,0,0,1,Orthodox,162.56,160.02,27,Blue
+Daria Zhelezniakova,2024-09-28,Women's Bantamweight,FEMALE,1,0,0,3.0,0,0,0,1,0,0,1,Orthodox,175.26,172.72,28,Blue
+Dusko Todorovic,2024-11-09,Middleweight,MALE,0,1,0,14.0,0,0,0,1,3,0,4,Orthodox,185.42,187.96,30,Blue
+Joselyne Edwards,2024-10-19,Women's Bantamweight,FEMALE,0,2,0,24.0,0,0,2,2,0,0,5,Orthodox,172.72,177.8,29,Red
+Carlos Prates,2024-11-09,Welterweight,MALE,4,0,0,7.0,0,0,0,0,4,0,5,Switch,185.42,198.12,31,Blue
+Pannie Kianzad,2024-08-10,Women's Bantamweight,FEMALE,0,2,0,27.0,1,0,0,5,0,0,5,Orthodox,170.18,167.64,32,Blue
+Maheshate,2024-11-23,Lightweight,MALE,1,0,0,12.0,0,0,1,1,1,0,3,Orthodox,182.88,180.34,24,Red
+Marlon Vera,2024-08-03,Bantamweight,MALE,0,1,0,66.0,1,0,0,4,7,4,15,Switch,172.72,177.8,31,Red
+Denise Gomes,2024-11-09,Women's Strawweight,FEMALE,1,0,0,15.0,0,0,1,1,2,0,5,Orthodox,157.48,160.02,24,Blue
+Chris Barnett,2024-10-26,Heavyweight,MALE,1,0,0,9.0,0,0,0,0,2,0,2,Orthodox,175.26,190.5,38,Blue
+Ovince Saint Preux,2024-10-05,Light Heavyweight,MALE,1,0,0,78.0,1,1,2,4,9,5,21,Southpaw,190.5,203.2,41,Blue
+SeungWoo Choi,2024-07-20,Featherweight,MALE,1,0,0,22.0,0,0,0,3,1,0,4,Orthodox,182.88,187.96,31,Blue
+Danny Barlow,2024-08-10,Welterweight,MALE,2,0,0,4.0,0,0,0,0,2,0,3,Southpaw,187.96,200.66,29,Red
+Tim Means,2024-10-05,Welterweight,MALE,0,1,0,65.0,0,0,1,6,6,2,15,Orthodox,187.96,190.5,40,Blue
+Rinat Fakhretdinov,2024-10-26,Welterweight,MALE,4,0,1,13.0,0,0,1,2,0,1,5,Orthodox,182.88,187.96,33,Red
+Stephen Thompson,2024-10-05,Welterweight,MALE,0,1,1,60.0,2,0,0,6,6,0,12,Orthodox,182.88,190.5,41,Red
+Talita Alencar,2024-08-10,Women's Strawweight,FEMALE,1,0,1,6.0,0,0,1,0,0,0,1,Orthodox,154.94,147.32,33,Blue
+Evan Elder,2024-07-13,Welterweight,MALE,1,0,0,9.0,0,0,0,1,0,0,2,Switch,177.8,182.88,27,Red
+Brunno Ferreira,2024-10-26,Middleweight,MALE,2,0,0,5.0,0,0,0,0,4,0,4,Orthodox,177.8,182.88,31,Blue
+Jasmine Jasudavicius,2024-11-02,Women's Flyweight,FEMALE,2,0,0,24.0,0,0,0,5,0,1,7,Orthodox,170.18,172.72,35,Blue
+Elves Brener,2024-08-03,Lightweight,MALE,0,1,0,10.0,0,0,1,0,2,0,3,Orthodox,177.8,182.88,26,Blue
+Trey Ogden,2024-07-20,Lightweight,MALE,1,0,0,15.0,0,0,0,2,0,0,3,Orthodox,180.34,182.88,34,Blue
+Joaquin Buckley,2024-10-05,Welterweight,MALE,4,0,0,31.0,0,0,1,2,6,0,10,Southpaw,177.8,193.04,30,Blue
+Ange Loosa,2024-07-13,Welterweight,MALE,2,0,0,14.0,0,0,0,2,0,0,2,Orthodox,177.8,187.96,31,Blue
+Ismail Naurdiev,2024-10-26,Middleweight,MALE,0,1,0,12.0,0,0,0,2,0,0,3,Orthodox,177.8,187.96,28,Red
+Matt Schnell,2024-09-07,Bantamweight,MALE,0,2,0,24.0,0,0,2,1,0,3,6,Orthodox,172.72,177.8,34,Red
+Stewart Nicoll,2024-08-17,Flyweight,MALE,0,0,0,0.0,0,0,0,0,0,0,0,Orthodox,165.1,165.1,29,Red
+Yana Santos,2024-08-10,Women's Bantamweight,FEMALE,0,3,0,23.0,1,0,0,4,0,0,5,Orthodox,167.64,172.72,34,Red
+Michael Chandler,2024-11-16,Lightweight,MALE,0,1,0,14.0,1,0,0,0,3,1,4,Orthodox,172.72,180.34,38,Blue
+Michal Oleksiejczuk,2024-08-03,Middleweight,MALE,0,2,0,22.0,0,0,1,0,6,0,7,Southpaw,182.88,187.96,29,Blue
+Don'Tale Mayes,2024-08-03,Heavyweight,MALE,1,0,0,31.0,0,0,0,2,4,0,6,Orthodox,198.12,205.74,32,Blue
+Shamil Gaziev,2024-08-03,Heavyweight,MALE,0,1,0,7.0,0,0,0,0,1,1,3,Orthodox,193.04,198.12,34,Red
+Bruna Brasil,2024-07-27,Women's Strawweight,FEMALE,0,1,0,10.0,0,0,0,1,1,0,3,Orthodox,167.64,165.1,30,Blue
+Junior Tafa,2024-10-12,Heavyweight,MALE,0,2,0,7.0,0,0,0,0,1,0,2,Orthodox,190.5,190.5,28,Red
+Zygimantas Ramaska,2024-09-07,Featherweight,MALE,0,0,0,0.0,0,0,0,0,0,0,0,Orthodox,180.34,180.34,27,Red
+Edmen Shahbazyan,2024-08-24,Middleweight,MALE,1,0,0,21.0,0,0,1,0,5,1,7,Orthodox,190.5,190.5,26,Red
+Casey O'Neill,2024-08-17,Women's Flyweight,FEMALE,0,2,0,15.0,0,0,1,0,2,1,5,Orthodox,167.64,175.26,26,Red
+Ivan Erslan,2024-09-28,Light Heavyweight,MALE,0,0,0,0.0,0,0,0,0,0,0,0,Orthodox,187.96,182.88,32,Blue
+Chris Duncan,2024-09-28,Lightweight,MALE,0,1,0,10.0,0,0,1,1,1,0,4,Orthodox,177.8,180.34,31,Blue
+Da Woon Jung,2024-09-28,Light Heavyweight,MALE,0,3,1,18.0,0,0,0,1,2,1,4,Orthodox,193.04,198.12,30,Blue
+Marcin Tybura,2024-11-16,Heavyweight,MALE,0,1,0,49.0,0,1,0,6,4,1,13,Orthodox,190.5,198.12,39,Red
+Denis Tiuliulin,2024-08-03,Middleweight,MALE,0,3,0,8.0,0,0,0,0,1,0,1,Orthodox,185.42,195.58,36,Blue
+Toshiomi Kazama,2024-08-10,Bantamweight,MALE,0,2,0,5.0,1,0,0,1,0,0,2,Orthodox,170.18,175.26,27,Red
+Brian Ortega,2024-09-14,Featherweight,MALE,1,0,0,34.0,2,0,0,1,3,4,8,Switch,172.72,175.26,33,Red
+Ivana Petrovic,2024-11-02,Women's Flyweight,FEMALE,1,0,0,6.0,0,0,0,0,0,1,1,Southpaw,172.72,177.8,30,Blue
+Matheus Nicolau,2024-10-19,Flyweight,MALE,0,2,0,24.0,0,0,2,3,1,1,7,Orthodox,167.64,167.64,31,Red
+Brendson Ribeiro,2024-11-02,Light Heavyweight,MALE,0,2,0,5.0,0,0,0,0,1,0,2,Orthodox,190.5,205.74,28,Blue
+Dan Argueta,2024-10-12,Bantamweight,MALE,0,1,0,12.0,0,0,0,1,0,0,1,Southpaw,170.18,172.72,31,Red
+Max Griffin,2024-12-07,Welterweight,MALE,1,0,0,44.0,0,1,2,2,3,0,8,Orthodox,180.34,193.04,39,Blue
+Rafael Dos Anjos,2024-10-26,Welterweight,MALE,0,2,0,111.0,4,0,1,11,4,5,21,Southpaw,172.72,177.8,40,Blue
+Veronica Hardy,2024-11-16,Women's Flyweight,FEMALE,3,0,0,21.0,0,0,1,2,0,1,4,Southpaw,162.56,162.56,29,Red
+Merab Dvalishvili,2024-09-14,Bantamweight,MALE,10,0,0,37.0,0,0,0,9,1,0,11,Orthodox,167.64,172.72,33,Blue
+Ricardo Ramos,2024-08-17,Featherweight,MALE,0,2,0,24.0,0,0,1,3,2,1,8,Orthodox,175.26,182.88,29,Blue
+Christian Rodriguez,2024-07-13,Featherweight,MALE,4,0,0,16.0,0,0,1,3,0,1,5,Orthodox,170.18,180.34,26,Blue
+Montel Jackson,2024-07-13,Bantamweight,MALE,4,0,0,24.0,0,0,0,4,3,1,9,Southpaw,177.8,190.5,32,Red
+Daniel Zellhuber,2024-09-14,Lightweight,MALE,3,0,0,14.0,0,0,0,3,0,1,4,Switch,185.42,195.58,25,Red
+Khalil Rountree Jr.,2024-10-05,Light Heavyweight,MALE,5,0,0,29.0,1,0,1,1,7,0,9,Southpaw,185.42,193.04,34,Blue
+Alice Ardelean,2024-10-19,Women's Strawweight,FEMALE,0,1,0,3.0,0,0,0,0,0,0,0,Orthodox,160.02,157.48,32,Blue
+Karol Rosa,2024-08-10,Women's Bantamweight,FEMALE,0,1,0,27.0,0,1,2,3,0,0,7,Orthodox,165.1,170.18,29,Red
+Mayra Bueno Silva,2024-06-29,Women's Bantamweight,FEMALE,0,1,1,25.0,1,0,0,1,0,5,6,Orthodox,167.64,167.64,32,Red
+Jared Gooden,2024-10-12,Welterweight,MALE,1,0,0,15.0,0,0,0,0,1,1,2,Orthodox,182.88,195.58,30,Blue
+Chris Padilla,2024-09-07,Lightweight,MALE,1,0,0,1.0,0,0,0,0,0,1,2,Orthodox,175.26,187.96,28,Blue
+Mateusz Rebecki,2024-10-26,Catch Weight,MALE,0,1,0,10.0,0,0,0,1,1,2,5,Southpaw,170.18,167.64,31,Red
+Tabatha Ricci,2024-11-23,Women's Strawweight,FEMALE,2,0,0,22.0,0,0,1,4,0,1,6,Orthodox,154.94,154.94,29,Blue
+Anthony Smith,2024-12-07,Light Heavyweight,MALE,0,1,0,63.0,1,0,1,1,7,6,15,Orthodox,193.04,193.04,36,Blue
+Caio Machado,2024-11-02,Light Heavyweight,MALE,0,2,0,9.0,0,0,0,1,0,0,1,Southpaw,193.04,198.12,30,Red
+Chepe Mariscal,2024-08-10,Featherweight,MALE,3,0,0,8.0,0,0,1,1,1,0,4,Orthodox,170.18,175.26,31,Blue
+Stephanie Luciano,2024-08-10,Women's Strawweight,FEMALE,0,0,1,3.0,0,0,0,0,0,0,1,Orthodox,167.64,165.1,24,Red
+Ariane da Silva,2024-11-02,Women's Flyweight,FEMALE,0,1,0,29.0,0,0,1,3,0,2,6,Orthodox,167.64,170.18,30,Red
+Luana Pinheiro,2024-11-09,Women's Strawweight,FEMALE,0,2,0,13.0,0,0,1,1,1,0,4,Orthodox,157.48,157.48,31,Red
+Oumar Sy,2024-09-28,Light Heavyweight,MALE,1,0,0,1.0,0,0,0,0,0,1,2,Orthodox,193.04,210.82,28,Red
+Tony Ferguson,2024-08-03,Welterweight,MALE,0,7,0,58.0,3,0,1,3,5,6,15,Orthodox,180.34,193.04,40,Red
+Nathaniel Wood,2024-07-27,Featherweight,MALE,0,1,0,28.0,0,0,0,4,0,3,8,Orthodox,167.64,175.26,31,Red
+Marc-Andre Barriault,2024-11-02,Middleweight,MALE,0,2,0,31.0,0,0,0,2,2,1,5,Orthodox,185.42,187.96,34,Red
+Ronaldo Rodriguez,2024-09-14,Flyweight,MALE,1,0,0,5.0,0,0,0,0,0,1,2,Orthodox,167.64,165.1,25,Red
+Rob Font,2024-10-19,Bantamweight,MALE,0,2,0,46.0,0,0,0,3,6,1,11,Orthodox,172.72,180.34,37,Red
+Tresean Gore,2024-11-09,Middleweight,MALE,1,0,0,6.0,0,0,0,0,0,1,2,Switch,182.88,190.5,30,Red
+Youssef Zalal,2024-11-02,Featherweight,MALE,2,0,1,24.0,0,0,0,3,0,2,6,Switch,177.8,182.88,28,Blue
+Viviane Araujo,2024-11-16,Women's Flyweight,FEMALE,0,1,0,35.0,0,0,0,5,1,0,7,Orthodox,162.56,172.72,37,Red
+Kai Kara-France,2024-08-17,Flyweight,MALE,0,2,0,30.0,1,0,1,4,2,0,8,Orthodox,162.56,175.26,31,Red
+Lucie Pudilova,2024-07-20,Women's Flyweight,FEMALE,0,2,0,28.0,0,0,0,2,1,0,3,Orthodox,172.72,170.18,30,Blue
+Cody Gibson,2024-11-02,Bantamweight,MALE,1,0,0,16.0,0,0,0,0,1,1,3,Orthodox,177.8,180.34,37,Blue
+Mohammed Usman,2024-07-20,Heavyweight,MALE,0,1,0,11.0,0,0,0,2,1,0,3,Orthodox,187.96,200.66,35,Red
+Magomed Ankalaev,2024-10-26,Light Heavyweight,MALE,10,0,1,33.0,1,0,0,4,6,0,11,Orthodox,190.5,190.5,32,Red
+Bryan Battle,2024-12-07,Welterweight,MALE,3,0,0,16.0,0,0,0,1,3,2,7,Orthodox,185.42,195.58,30,Blue
+Bill Algeo,2024-07-20,Featherweight,MALE,0,1,0,26.0,0,0,0,3,1,1,5,Switch,182.88,185.42,35,Blue
+Tecia Pennington,2024-10-05,Women's Strawweight,FEMALE,0,2,0,45.0,0,0,0,7,1,1,10,Orthodox,154.94,152.4,35,Blue
+Tracy Cortez,2024-07-13,Women's Flyweight,FEMALE,6,0,0,18.0,0,0,1,5,0,0,6,Orthodox,165.1,165.1,30,Blue
+Taylor Lapilus,2024-09-28,Bantamweight,MALE,1,0,0,20.0,0,0,0,4,1,0,6,Southpaw,167.64,185.42,32,Red
+DongHun Choi,2024-11-23,Flyweight,MALE,2,0,0,6.0,0,0,2,0,0,0,3,Switch,165.1,167.64,25,Blue
+Jesus Aguilar,2024-08-17,Flyweight,MALE,2,0,0,8.0,0,0,1,0,1,1,4,Orthodox,162.56,157.48,28,Blue
+Ryan Spann,2024-10-05,Light Heavyweight,MALE,0,3,0,22.0,0,0,1,1,3,3,9,Orthodox,195.58,200.66,33,Red
+Robert Valentin,2024-08-24,Middleweight,MALE,0,0,0,0.0,0,0,0,0,0,0,0,Orthodox,187.96,195.58,29,Red
+Felipe dos Santos,2024-09-07,Flyweight,MALE,1,0,0,6.0,0,0,1,0,0,0,1,Orthodox,170.18,177.8,23,Red
+Cesar Almeida,2024-10-05,Middleweight,MALE,0,1,0,8.0,0,0,0,1,1,0,3,Orthodox,185.42,187.96,36,Red
+Preston Parsons,2024-07-27,Welterweight,MALE,1,0,0,10.0,0,0,0,2,0,0,2,Orthodox,180.34,180.34,29,Blue
+Kevin Jousset,2024-09-28,Welterweight,MALE,2,0,0,4.0,0,0,0,1,0,1,2,Orthodox,187.96,190.5,31,Red
+Kaue Fernandes,2024-08-03,Lightweight,MALE,0,1,0,3.0,0,0,0,0,0,0,1,Orthodox,175.26,185.42,29,Blue
+Jonathan Martinez,2024-11-16,Bantamweight,MALE,0,1,0,39.0,0,0,0,6,4,0,10,Southpaw,172.72,177.8,30,Red
+Quang Le,2024-11-23,Bantamweight,MALE,0,1,0,3.0,0,0,0,0,0,0,0,Orthodox,167.64,177.8,33,Blue
+Sam Patterson,2024-07-27,Welterweight,MALE,1,0,0,4.0,0,0,0,0,0,2,3,Orthodox,190.5,198.12,28,Red
+Valentina Shevchenko,2024-09-14,Women's Flyweight,FEMALE,0,1,1,60.0,11,0,2,4,4,2,13,Southpaw,165.1,167.64,36,Blue
+Zachary Scroggin,2024-11-09,Welterweight,MALE,0,0,0,0.0,0,0,0,0,0,0,0,Orthodox,190.5,187.96,28,Blue
+Israel Adesanya,2024-08-17,Middleweight,MALE,0,1,0,60.0,11,0,1,7,5,0,13,Switch,193.04,203.2,35,Blue
+Arnold Allen,2024-07-27,Featherweight,MALE,0,2,0,35.0,0,0,1,5,2,2,11,Southpaw,172.72,177.8,30,Red
+Diego Lopes,2024-09-14,Featherweight,MALE,4,0,0,12.0,0,0,0,1,2,1,5,Orthodox,180.34,182.88,29,Blue
+Kai Asakura,2024-12-07,Flyweight,MALE,0,0,0,0.0,0,0,0,0,0,0,0,Orthodox,172.72,175.26,31,Blue
+Santiago Ponzinibbio,2024-07-13,Welterweight,MALE,0,1,0,41.0,0,0,0,5,6,0,11,Orthodox,182.88,185.42,37,Red
+Randy Brown,2024-12-07,Welterweight,MALE,3,0,0,43.0,0,0,1,6,3,3,13,Orthodox,190.5,198.12,34,Red
+Grant Dawson,2024-10-12,Lightweight,MALE,1,0,1,31.0,0,0,0,4,1,5,11,Switch,177.8,182.88,30,Red
+Kyler Phillips,2024-10-19,Bantamweight,MALE,3,0,0,21.0,0,0,0,4,2,1,7,Orthodox,172.72,182.88,29,Blue
+Trevin Giles,2024-11-02,Welterweight,MALE,0,2,0,32.0,0,0,2,2,3,0,7,Orthodox,182.88,187.96,32,Blue
+Neil Magny,2024-11-09,Welterweight,MALE,0,1,0,88.0,0,0,4,10,6,2,22,Orthodox,190.5,203.2,37,Red
+Raul Rosas Jr.,2024-09-14,Bantamweight,MALE,2,0,0,10.0,0,0,0,1,1,2,5,Switch,175.26,170.18,19,Red
+Gregory Rodrigues,2024-07-27,Middleweight,MALE,2,0,0,17.0,0,0,0,1,5,0,7,Orthodox,190.5,190.5,32,Blue
+Luana Santos,2024-08-17,Women's Flyweight,FEMALE,3,0,0,5.0,0,0,0,1,1,1,3,Orthodox,167.64,170.18,24,Blue
+Paul Craig,2024-11-16,Middleweight,MALE,0,2,1,34.0,0,0,0,0,3,6,9,Orthodox,190.5,193.04,36,Blue
+Christian Leroy Duncan,2024-07-27,Middleweight,MALE,2,0,0,8.0,0,0,0,0,3,0,3,Switch,187.96,200.66,29,Red
+Robert Whittaker,2024-10-26,Middleweight,MALE,2,0,0,64.0,4,0,1,10,6,0,17,Orthodox,182.88,185.42,33,Red
+Charles Jourdain,2024-11-02,Bantamweight,MALE,0,2,1,36.0,0,0,0,2,2,2,7,Switch,175.26,175.26,28,Red
+Caolan Loughran,2024-07-27,Bantamweight,MALE,1,0,0,6.0,0,0,0,1,0,0,1,Orthodox,167.64,172.72,28,Blue
+Yizha,2024-09-07,Featherweight,MALE,3,0,0,12.0,2,0,1,1,0,3,5,Orthodox,170.18,180.34,27,Red
+Pat Sabatini,2024-10-12,Featherweight,MALE,0,1,0,14.0,0,0,0,3,0,2,6,Orthodox,172.72,177.8,33,Blue

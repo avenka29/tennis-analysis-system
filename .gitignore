@@ -7,3 +7,6 @@ Punches/
 Data/
 Annotated/
 ufc_model.pkl
+.venv/
+data-analysis/.env
+data-analysis/__pycache__/
