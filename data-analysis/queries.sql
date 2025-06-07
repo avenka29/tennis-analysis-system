@@ -128,14 +128,14 @@ FROM (
 
 -- [TODO] START HERE FOR NEW STUFF
 -- Creating fighters-new table
-CREATE TABLE fighters(fighter_id TEXT, name TEXT, birthdate DATE, nickname TEXT, association TEXT,
+CREATE TABLE fighters_new(fighter_id TEXT, name TEXT, birthdate DATE, nickname TEXT, association TEXT,
 weight_class TEXT, wins REAL, losses REAL, draws REAL,
 wins_by_ko_tko REAL, wins_by_submission REAL, wins_by_decision REAL, wins_by_other REAL,
 losses_by_ko_tko REAL, losses_by_submission REAL, losses_by_decision REAL, losses_by_other REAL,
 country TEXT, city TEXT, weight REAL, sex VARCHAR(1), height_ft REAL, height_cm REAL);
 
 -- Add serial id column to fighters
-ALTER TABLE fighters
+ALTER TABLE fighters_new
 ADD COLUMN id SERIAL PRIMARY KEY;
 
 
