@@ -181,9 +181,9 @@ SET
     height_feet = floor(height_ft),
     height_inches = (
         CASE
-            WHEN (round(height_ft * 100)::int % 10) = 0     
-                 THEN (round(height_ft * 100)::int % 100) / 10  
-            ELSE      (round(height_ft * 100)::int % 100)      
+            WHEN (round(height_ft * 100)::int % 10) = 0
+                 THEN (round(height_ft * 100)::int % 100) / 10
+            ELSE      (round(height_ft * 100)::int % 100)
         END
 );
 
@@ -196,5 +196,16 @@ SET
 ALTER TABLE fighters_new
 DROP COLUMN height_ft
 
+--Set anyone who's height is 5.1 and male as 5'10 because shortest male UFC fighter is 5'2
+--Worst case we have like 1 or 2 innacurate values of fighters no one cares about
+UPDATE fighters_new
+SET height_inches = 10
+WHERE height_feet = 5
+  AND height_inches = 1
+  AND sex = 'M';
+
+-- Edge case gan McGee is 6'10 but was stored as 6.1 so i changed it to 6 ft 10 inches
+SELECT * FROM fighters_new
+WHERE name = 'Gan McGee'
 
 
