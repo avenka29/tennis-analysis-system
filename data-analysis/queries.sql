@@ -169,3 +169,32 @@ WHERE fighters.name = fighters_new.name;
 ALTER TABLE fighters_new
 DROP COLUMN height_cm
 
+--create new columns for cm , feet and inches
+ALTER TABLE fighters_new
+ADD COLUMN height_feet INTEGER,
+ADD COLUMN height_inches INTEGER,
+ADD COLUMN height_cm REAL;
+
+--Populate inches and feet column by seperating decimal value from original 
+UPDATE fighters_new
+SET
+    height_feet = floor(height_ft),
+    height_inches = (
+        CASE
+            WHEN (round(height_ft * 100)::int % 10) = 0     
+                 THEN (round(height_ft * 100)::int % 100) / 10  
+            ELSE      (round(height_ft * 100)::int % 100)      
+        END
+);
+
+--Update cm column
+UPDATE fighters_new
+SET
+    height_cm = ROUND(((height_feet * 12 + height_inches) * 2.54), 2)
+
+--Drop original faulty height_ft column
+ALTER TABLE fighters_new
+DROP COLUMN height_ft
+
+
+
