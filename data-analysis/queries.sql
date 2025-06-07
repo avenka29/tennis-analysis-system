@@ -127,6 +127,8 @@ FROM (
 
 
 -- [TODO] START HERE FOR NEW STUFF
+-- new dataset link:
+--https://www.kaggle.com/datasets/m0hamedai1/the-ultimate-ufc-archive-1993-present?resource=download&select=fighters.csv
 -- Creating fighters-new table
 CREATE TABLE fighters_new(fighter_id TEXT, name TEXT, birthdate DATE, nickname TEXT, association TEXT,
 weight_class TEXT, wins REAL, losses REAL, draws REAL,
