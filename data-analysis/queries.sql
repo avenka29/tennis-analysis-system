@@ -208,4 +208,38 @@ WHERE height_feet = 5
 SELECT * FROM fighters_new
 WHERE name = 'Gan McGee'
 
+-- Create stance column in fighters_new
+ALTER TABLE fighters_new
+ADD column stance TEXT
 
+-- Create name column in fighters_data
+ALTER TABLE fighters_data
+ADD column name TEXT
+
+-- Updating name column to fighters_data
+UPDATE fighters_data
+SET name = fighters.name
+from fighters
+WHERE fighters_data.fighter_id = fighters.id
+
+
+
+--new Matches table
+CREATE TABLE matches_new(
+fight_id TEXT,
+event_id TEXT,
+left_fighter_id TEXT,
+left_fighter_name TEXT,
+right_fighter_id TEXT,
+right_fighter_name TEXT,
+winner CHAR(1),
+winner_name TEXT,
+is_main_event BOOLEAN,
+match SMALLINT,
+round SMALLINT,
+time TEXT,
+method TEXT,
+weight_class TEXT,
+referee_id TEXT,
+referee_name TEXT
+)
